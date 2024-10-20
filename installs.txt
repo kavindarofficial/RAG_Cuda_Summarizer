@@ -1,0 +1,9 @@
+pypdf
+langchain
+chromadb
+pytest
+boto3
+colab-xterm
+langchain_community
+langchain-chroma
+langchain-ollama
