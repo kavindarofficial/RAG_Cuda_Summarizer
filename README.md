@@ -61,7 +61,7 @@ To get started, I recommend cloning this repository or creating a new Colab note
 
 ## Usage
 Once the setup is complete, you can use the interactive notebook to query the model. Simply enter the questions, and the system provides responses based on the context of the document uploaded. This makes it easy to retrieve relevant information quickly!
-Be patient while the response is generated and it will take a couple of minitues.
+Be patient while the response is generated and it will take a couple of minutes.
 
 ## Project Structure
 The project is organized as follows:
